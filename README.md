@@ -68,8 +68,21 @@ For some examples, see the sample App.
 
 
 
-# Download
-Grab the latest dependency through Gradle:
+# Add to project
+
+Step 1. Add it in build.gradle (Project) file:
+
+```Groovy
+allprojects {
+ repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+ }
+}
+```
+
+Step 2. Add the dependency in build.gradle (App) file:
+
 ```Groovy
 dependencies {
     implementation 'com.github.TouhidApps:SaveIt-Android-Kotlin:0.0.1'

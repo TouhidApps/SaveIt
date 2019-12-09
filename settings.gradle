@@ -1,0 +1,2 @@
+include ':app', ':saveit'
+rootProject.name='SaveIt-Example'

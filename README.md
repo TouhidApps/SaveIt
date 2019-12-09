@@ -78,8 +78,5 @@ dependencies {
 
 
 
-# License
-
-```
-Inspired by: [EasyPrefs](https://github.com/Pixplicity/EasyPrefs)
-```
+# Inspired from:
+[EasyPrefs](https://github.com/Pixplicity/EasyPrefs)

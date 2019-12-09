@@ -78,5 +78,5 @@ dependencies {
 
 
 
-# Inspired from:
+#### Inspired from:
 [EasyPrefs](https://github.com/Pixplicity/EasyPrefs)

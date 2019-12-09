@@ -10,7 +10,7 @@ Initialize the shared preference inside the onCreate of the Application class of
 Kotlin:
 
 ```Kotlin
-class PrefsApplication : Application() {
+class MyApp : Application() {
 
     override fun onCreate() {
         super.onCreate()

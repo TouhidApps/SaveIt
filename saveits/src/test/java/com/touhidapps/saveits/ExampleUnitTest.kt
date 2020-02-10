@@ -1,4 +1,4 @@
-package com.touhidapps.saveit
+package com.touhidapps.saveits
 
 import org.junit.Test
 

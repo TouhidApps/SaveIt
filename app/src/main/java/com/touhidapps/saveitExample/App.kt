@@ -3,7 +3,7 @@ package com.touhidapps.saveitExample
 import android.app.Application
 import android.content.ContextWrapper
 import com.touhidapps.saveit.SaveIt
-import com.touhidapps.saveit.SaveItS
+import com.touhidapps.saveits.SaveItS
 
 class App : Application() {
 

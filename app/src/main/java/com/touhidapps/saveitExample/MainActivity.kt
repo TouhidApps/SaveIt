@@ -3,7 +3,6 @@ package com.touhidapps.saveitExample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.touhidapps.saveit.SaveIt
-import com.touhidapps.saveit.SaveItS
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

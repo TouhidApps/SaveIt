@@ -1,5 +1,5 @@
-# SaveIt-Android-Kotlin
-A library to save in Shared Preference with crypto support
+# SaveIt - Android Library to make simpler SharedPreferences use
+A library to save in Shared Preference with crypto support and also normal use
 ===
 
 ## How to use:
@@ -85,11 +85,14 @@ Step 2. Add the dependency in build.gradle (App) file:
 
 ```Groovy
 dependencies {
-    implementation 'com.github.TouhidApps:SaveIt-Android-Kotlin:0.0.1'
+
+    implementation 'com.github.TouhidApps.SaveIt:saveit:0.5.1' // To save general data in shared preference
+    implementation 'com.github.TouhidApps.SaveIt:saveits:0.5.1' // To save encrypted data in shared preference for security
+
 }
 ```
 
 
 
-#### Inspired from:
+#### Inspired by:
 [EasyPrefs](https://github.com/Pixplicity/EasyPrefs)
